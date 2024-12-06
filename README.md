@@ -1,5 +1,4 @@
 # Price Optimization Analysis
-
 This project focuses on analyzing and optimizing pricing strategies to maximize revenue and profitability. Using data-driven techniques, it identifies patterns, trends, and opportunities to refine pricing decisions.
 
 ## Features
