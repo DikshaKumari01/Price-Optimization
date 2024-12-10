@@ -5,7 +5,6 @@ This project focuses on analyzing and optimizing pricing strategies to maximize 
 - Identify key factors influencing price elasticity.
 - Develop models to optimize pricing strategies.
 - Visualize trends and results with clear charts.
-
 # Tools and Technologies
 - **Python**
 - **Libraries**: Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn
